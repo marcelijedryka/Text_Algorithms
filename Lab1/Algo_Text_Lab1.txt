@@ -1,0 +1,6 @@
+Wyszukiwanie wzorców w tekście:
+
+-w naiwnym sposobie używamy slicingu
+
+		if tekst[s:s+len(pattern)] == pattern:
+
